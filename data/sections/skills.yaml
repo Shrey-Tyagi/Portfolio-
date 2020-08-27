@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "Experienced with git-based development. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+  
+- name: Cloud Computing
+  icon: "images/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc. Have completed certifications in GCP along with ML."
+  url: "https://www.qwiklabs.com/public_profiles/036138fd-e6f1-40d0-9225-b4aac0d24432"
+
+
+- name: Netlify
+  icon: "images/skills/netlify.png"
+  summary: "Deploy and host most of my web apps using netlify along with continuous intergration by Git to get real time deployment results."
+  url: "https://www.netlify.com/"
+
+- name: C++
+  icon: "images/skills/c++.png"
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+
+- name: MS Office Suit 
+  icon: "images/skills/office.png"
+  summary: "Proficient in MS office tools. Extensively worked with excel and it's add-ons for data based projects."

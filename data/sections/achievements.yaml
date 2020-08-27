@@ -1,0 +1,26 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Third Place | Def Hacks - Health Tech Prompt
+  image: images/achievements/presenter.jpg
+  summary: • I participated and won a prize in Def Hacks 2020 a US based online world hackathon by making mask detector web application. https://devpost.com/software/mask-detector
+
+- title: Best innovator in FICE UC-Berkeley Global accelerator program. | FICE 
+  image: images/achievements/sport.jpg
+  summary: • We pitched the idea for an online based laundry service pickup and drop along with brainstorming ideas and doing market analysis for our business model.Our business model won the best innovators award in Finals held in Bangalore.
+
+- title: Deloitte Technology Consulting virtual Internship
+  image: images/achievements/graduation-cap.jpg
+  summary: "• Designed a business case for an Australian Bank to expand its online product offerings and services. Collaborated with cross-functional teams to design Tableau dashboards for effective decision making and presented reports as per the client’s budget and delivery needs. Conducted thorough market research of the current nancial products offered online in the Australian market. And devised solutions under constraints including Tech Architecture, cost analysis, benets realization, resource requirements, designing timeframes, etc. to propose anecient solution for the client."
+
+- title: JPMorgan Chase & Co. Software virtual Internship
+  image: images/achievements/woman-winner.jpg
+  summary: • Interface with a stock price data feed and setting up system for analysis of the data. Implemented the Perspective open source code in preparation for data visualization. Used Perspective to create the chart for the trader’s dashboard.

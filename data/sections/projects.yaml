@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Mask detector using tensorow js
+  logo: images/projects/tensorflow.png
+  role: Developer
+  timeline: "June 2020 - Present"
+  repo: https://github.com/Shrey-Tyagi/Mask-detector- # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Low maintance light model for survillance purposes. This is a prototype to show how gate keeping using survillance of masks can be done with ease.p5.js for making it on the web and use TensorFlow js (ml5.js) to classify.
+  tags: ["professional", "tensorflow", "js"]
+
+- name: Robotized Domestic Waste Segregator Utilizing IOT and Image Processing - Machine learning
+  role: Team Lead
+  timeline: "Jan 2020 - Apr 2020"
+  url: "http://sersc.org/journals/index.php/IJAST/article/view/7352"
+  summary: IJAST Published paper in SCOPUS indexed journal which heighlights the process of waste segregation for better management and disposal.
+  tags: ["academic","iot"]
+
+- name: Bill maker - Web application
+  logo: images/projects/bill.png
+  role: Developer
+  timeline: "Jan 2019 - March 2020"
+  repo: https://github.com/Shrey-Tyagi/Bill-maker
+  #url: ""
+  summary: Javascript based bill calculator which is deployed on netify with continuous integration with GitHub Repo.
+  tags: ["professional", "js","hobby"]
+
+
+- name: Mysite
+  logo: images/projects/favicon.png
+  role: Owner
+  timeline: "July 2020 - Present"
+  repo: https://github.com/Shrey-Tyagi/Portfolio-
+  summary: A Hugo based portfolio site for personal portfolio made using react components.
+  tags: ["hobby","hugo","theme","professional"]

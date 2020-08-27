@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: The OpenCode Foundation
+    url: "https://www.theopencode.org/"
+    location: US 
+    # company overview
+    overview: A non-prot organization that aims to provide students from low-income families the education and resources required to pursue a career in computer science.
+  positions:
+  - designation: Intern
+    start: July 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Event management and funds procurement.
+    - Design and edit content for the website and curriculum.
+    - Create proposals for raising funds.
+
+- company:
+    name: BULWARK CYBERX 
+    url: "https://www.bulwarkx.com/"
+    location: Jaipur 
+    overview: BULWARK CYBERX offers comprehensive and robust cybersecurity solutions to businesses and government agencies. To survive in the ever-evolving cyber space, organisations need to have a panoramic understanding of the existing threats as well as the ability to constantly evolve to protect themselves from any possible future attack.
+  positions:
+  - designation: Intern
+    start: June 2019
+    end: July 2019
+    responsibilities:
+    - I had worked on predicting food requirements for a catering service so as to keep overproduction in check.
+    - Write lots of example codes.
+    - Data cleaning and visualization.
+    
+
